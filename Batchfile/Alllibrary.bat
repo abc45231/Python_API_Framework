@@ -1,4 +1,4 @@
 pip install requests
-pip install pytest
+python -m pytest
 pip install jsonpath
 pip install openpyxl
